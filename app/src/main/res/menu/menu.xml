@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item android:id="@+id/btnArabic" android:title="Arabic"
+        ></item>
+
+  <item android:id="@+id/btnFrench" android:title="French">
+      </item>
+
+    <item android:id="@+id/btnEnglish" android:title="English">
+    </item>
+
+</group>
+</menu>
